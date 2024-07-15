@@ -4,3 +4,5 @@ Created for learing github and experimenting (All experiments are done  by curre
   # Prefix-list
   file-> denotes a file   
   folder-> denotes a folder
+  
+     folder1-> contains file4... -> for checking features like blame, red/green etc..
