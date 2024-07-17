@@ -6,3 +6,4 @@ Created for learing github and experimenting (All experiments are done  by curre
   folder-> denotes a folder
   
      folder1-> contains file4... -> for checking features like blame, red/green etc..
+     folder2-> contains files---> for practicing concepts like pull,merge etc
